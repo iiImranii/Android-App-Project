@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PART2 Shopping List</string>
+    <string name="add_product">Add Product</string>
+    <string name="hint_product">Product Name...</string>
+    <string name="button_save">Save</string>
+
+    <string-array name="labels_unit">
+        <item>Unit</item>
+        <item>Kg</item>
+        <item>Liter</item>
+    </string-array>
+    <string name="title_activity_create_list">CreateListActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
